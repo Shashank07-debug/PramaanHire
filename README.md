@@ -4,15 +4,6 @@
 
 PramaanHire is an AI-powered recruitment platform that transforms the traditional ATS (Applicant Tracking System) by introducing **explainable AI evaluation**, **fairness controls**, and **constructive feedback loops**.
 
----
-
-## 🌐 Live Demo
-
-- **Frontend**: [https://pramaanhire.vercel.app](https://pramaanhire.vercel.app)
-- **Backend API**: [https://pramaanhire.onrender.com](https://pramaanhire.onrender.com)
-- **Swagger Documentation**: [https://pramaanhire.onrender.com/swagger-ui/index.html](https://pramaanhire.onrender.com/swagger-ui/index.html)
-
----
 
 ## 🌟 Why PramaanHire?
 
